@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[2]:
-#Day17
+#Day17#
 
 def get_student_info():
     name = input("Enter student name: ")
