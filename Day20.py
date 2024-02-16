@@ -3,7 +3,7 @@
 
 # In[1]:
 
-#Day20
+#Day. 20
 import seaborn as sns
 import matplotlib.pyplot as plt
 
