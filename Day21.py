@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[2]:
-#Day 21 lambda pgm
+#Day 21 lambda 
 
 add = lambda x, y: x + y
 result = add(3, 5)
