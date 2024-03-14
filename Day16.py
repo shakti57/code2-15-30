@@ -3,7 +3,7 @@
 
 # In[1]:
 
-#Day16
+#Day 16
 import numpy as np
 
 # Create an array
