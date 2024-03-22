@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-#D27
+#Day 27
 
 # Import necessary libraries
 from sklearn.model_selection import train_test_split
