@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-#23
+#day 23
 
 def add(x, y):
     return x + y
