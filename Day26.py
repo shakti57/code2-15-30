@@ -2,7 +2,7 @@
 # coding: utf-8
 #Day 26
 # In[2]:
-#26 bmi
+#26 bmi calculation 
 
 def calculate_bmi(weight, height):
     """
